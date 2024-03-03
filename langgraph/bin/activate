@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/langgraph/langgraph"
+VIRTUAL_ENV="/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/langgraph/langgraph"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

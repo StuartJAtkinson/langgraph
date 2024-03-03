@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/langgraph/langgraph"
+set -gx VIRTUAL_ENV "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/langgraph/langgraph"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
